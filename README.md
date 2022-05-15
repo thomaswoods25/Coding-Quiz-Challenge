@@ -4,7 +4,7 @@ My github: https://github.com/thomaswoods25
 
 My github repo: https://github.com/thomaswoods25/Coding-Quiz-Challenge
 
-Published site: 
+Published site: https://thomaswoods25.github.io/Coding-Quiz-Challenge/
 
 Summary: With the 4th project, I was able to create a successful coding quiz challenge containing my html, css design and javascript code. 
 Again I have continued to learn and grow my HTML skill and trying to perfect it. 
